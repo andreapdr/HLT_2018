@@ -1,0 +1,7 @@
+Restart training from checkpoint (model_checkpoint_0811_16:36.pth.tar) in folder model/Bert_0811_16:27
+python main.py --from_checkpoint 0811_16:27/model_checkpoint_0811_16:36.pth.tar
+
+Train model for 2 epochs
+python main.py --nepochs 2
+
+[...]
