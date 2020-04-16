@@ -6,7 +6,7 @@ Toxic comment classification with Bert transformer
 
 Run it with _-h_ or _--help_ to show this help.
 
-'''
+```
 Usage:main.py [options]
 
 optional arguments:
@@ -21,4 +21,4 @@ optional arguments:
                         freeze all the layer but output classifier and train it
   --from_checkpoint FROM_CHECKPOINT
                         load model from checkpoint and resume training
-'''
+```
